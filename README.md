@@ -23,7 +23,7 @@ We made use of different web technologies to build the application along with a 
 # Design
 The website was designed on Figma.The prototype is available on figma and can be accessed from [here](https://www.figma.com/file/OF9DcqPII7f5QpUR7hIN7B/EmoFy?node-id=0%3A1) .
 <p align="center">
-<img src="https://github.com/AM1CODES/EmoFy-GardenHacks/blob/main/Readme-Assets/Figma-Design.png" alt="drawing" width="500"/>
+<img src="https://github.com/mihir7121/EmoFy/blob/main/Readme-Assets/Figma-Design.png" alt="drawing" width="500"/>
 </p>
 </br>
 
