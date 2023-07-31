@@ -30,7 +30,7 @@ The website was designed on Figma.The prototype is available on figma and can be
 # Project Gallery
 
 <p align="center">
-<img src="https://github.com/mihir7121/EmoFy/blob/main/Readme-Assets/Landing.png" alt="drawing" width="500"/>
+<img src="https://github.com/mihir7121/EmoFy/blob/main/Readme-Assets/Landing.png" alt="drawing" width="5000"/>
 </p>
 <p align="center">
 <img src="https://github.com/mihir7121/EmoFy/blob/main/Readme-Assets/About.png" alt="drawing" width="500"/>
