@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.com/AM1CODES/EmoFy-GardenHacks/blob/main/Readme-Assets/Logo-Readme.png" alt="drawing" width="400"/>
+<img src="https://github.com/mihir7121/EmoFy/blob/main/Readme-Assets/Logo-Readme.png" alt="drawing" width="400"/>
 </p>
 
 </br>
