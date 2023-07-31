@@ -39,6 +39,7 @@ def takephoto(request):
     cap = cv2.VideoCapture(0) # video capture source camera (Here webcam of laptop) 
     ret,frame = cap.read() # return a single frame in variable frame
     #os.chdir(directory)
+    print(frame)
     frame_flip = cv2.flip(frame,1)
     # cv2.imwrite(str(count)+'.jpg',frame_flip)
     cap.release()
@@ -46,7 +47,7 @@ def takephoto(request):
     
 
     #PREDICTING THE IMAGE USING MODEL
-    model = keras.models.load_model(os.path.join("C:/Users/Mihir/Desktop/all folders/EmoFy-GardenHacks/BackEnd/app/"+"model_optimal.h5")) #loading our model that we will use to make predictions of emotions
+    model = keras.models.load_model(os.path.join("D:/Hackathons/EmoFy-GardenHacks/BackEnd/app/"+"model_optimal.h5")) #loading our model that we will use to make predictions of emotions
     #path=(os.path.join(directory)+"/"+str(count)+'.jpg')
     frame = frame_flip
     # isTrue, frame = PImage.imread()
